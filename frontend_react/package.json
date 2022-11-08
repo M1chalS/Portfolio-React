@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-buddy/ide-toolbox": "^2.2.1",
     "@sanity/client": "^3.4.1",
     "@sanity/image-url": "^1.0.1",
     "@testing-library/jest-dom": "^5.16.5",
@@ -14,8 +15,8 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.6.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "@react-buddy/ide-toolbox": "^2.2.1"
+    "react-tooltip": "^4.4.3",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
